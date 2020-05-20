@@ -4,4 +4,4 @@ This is a simple readme file
 
 ##Heading 2
 
-Just something going on
+Making changes to trigger the need to push to gitHub.com
